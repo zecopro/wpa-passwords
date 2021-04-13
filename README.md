@@ -12,13 +12,11 @@
 special.txt : هذه لستة مصممة للمعالجات الضعيفة من الهواتف والكمبيوترات بحجم معقول ومراتب متعددة ومتكونة من الارقام الاكثر استخدامأ
 رابط قناتي على اليوتيوب
 
-https://www.youtube.com/channel/UCVNGHGv_dfXBssak7gKIJeQ
-
+https://www.youtube.com/channel/UCnLSx8FmCbBYnkxN7ySnWKw
 
 رابط حسابي على الفيسبوك
 
 
-https://www.facebook.com/zecohibhob
-
+https://www.facebook.com/project313.iq/
 
 happy hacking 
